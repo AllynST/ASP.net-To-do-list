@@ -4,8 +4,8 @@ I. Instrukcje do włączenia aplikacji:
 
 1. Zmienienie adresu serwera w appsettings.json 
 2. Wpisanie komend: 
-    a)"update-database -verbose -context ApplicationDbContext" 
-    b)"update-database -verbose -context AppIdentityContext" 
+     a)"update-database -verbose -context ApplicationDbContext"  
+     b)"update-database -verbose -context AppIdentityContext"  
 
 II. Opis aplikacji:
 
