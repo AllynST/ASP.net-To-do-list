@@ -1,0 +1,76 @@
+﻿@model Projekt_ASP.Models.Team
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<section class="h-auto">
+    <div class="container py-5 h-auto">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-md-12 col-xl-10">
+
+                <div class="card bg-transparent">
+                    <div class="card-header p-3" style="background-color: #09192f; box-shadow: 0px 0px 50px 0px #020A16;">
+                        <h5 class="mb-0 text-light"><i class="fas fa-tasks m-2"></i>Task List </h5>
+                        
+                    </div>
+                    <div class="card-body" style="position: relative; height: 400px; overflow-y: scroll; background-color: #172A46; box-shadow: 0px 0px 50px 0px #020A16; ">
+
+                        <table class="table mb-0">
+                            <thead>
+                                <tr>
+                                    <th class="text-light" scope="col">Team Member</th>
+                                    <th class="text-light" scope="col">Task</th>
+                                    <th class="text-light" scope="col">State</th>
+                                    <th class="text-light" scope="col">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var task in Model.Tasks)
+                                {
+                                    <tr class="fw-normal">
+                                        <td class="align-middle"> 
+                                            <i style="transform:scale(2)" class="fas fa-user-circle text-light ml-2"></i>          
+                                            <span class="m-2 opacityTextHeader">@task.CreatedBy</span>
+                                        </td>
+                                        <td class="align-middle">
+                                            <span class="opacityTextHeader">@task.Name</span>
+                                        </td>
+                                        @if (task.finished)
+                                        {
+                                            <td class="align-middle">
+                                                <h6 class="mb-0"><span class="badge bg-success">Finished</span></h6>
+                                            </td>
+                                        }
+                                        else
+                                        {
+                                            <td class="align-middle">
+                                                <h6 class="mb-0"><span class="badge bg-danger">Ongoing</span></h6>
+                                            </td>
+                                        }
+                                        <td class="align-middle">
+                                            <a asp-controller="app" asp-action="ChangeTaskState" data-mdb-toggle="tooltip" title="Change state" asp-route-id="@task.Task_ID"><i class="fas fa-check text-success m-3"></i></a>
+                                            <a asp-controller="app" asp-action="DeleteTask" data-mdb-toggle="tooltip" title="Remove" asp-route-id="@task.Task_ID"><i class="fas fa-trash-alt text-danger"></i></a>
+                                        </td>
+                                    </tr>
+
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                        <div class="card-footer text-end p-3" style="background-color: #09192f; box-shadow: 0px 0px 50px 0px #020A16;">
+                            <a class="btn  m-2 float-right" style="background-color: #068D9D;" asp-controller="App" asp-action="AddTeamMemberPage" asp-route-id="@Model.Team_ID">Add Team Member</a>
+                            <a class="btn  m-2 float-right" style="background-color: #65FFDD; " asp-controller="Creators" asp-action="AddTaskPage" asp-route-id="@Model.Team_ID">Add Task</a>
+                            <a class="btn  m-2 float-right" style="background-color: #FFFFFF;" asp-controller="App" asp-action="YourTeams">Go back</a>
+                        </div>
+
+                    
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>

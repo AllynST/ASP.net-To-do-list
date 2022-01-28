@@ -1,0 +1,75 @@
+﻿@model List<Projekt_ASP.Models.Team>
+
+@{
+
+    Layout = "_Layout";
+
+}
+<div class="row w-100"><h1 class="card-title opacityTextHeader" style="margin:0 auto 50px auto" >Your summary</h1></div>
+<div class="row w-100">
+    <div class="col-6 m-auto" style="background-color: #0A192F">
+        <div class="card" style="background-color:#172a46">
+            <ul style="list-style:none;">
+                
+                @if(Model.Count == 0)
+                 {
+                    <li class="opacityTextHeader">You dont have any active teams</li>
+                    <li class="opacityTextHeader">Create your own or have another team member add you</li>
+                 }
+            else { 
+                @foreach (Team team in Model)
+                {
+
+                    <li class="d-flex no-block card-body">
+                        <i class="fa fa-users mr-4" style="line-height: 45px; transform: scale(2);color:#65FFDD;"></i>
+                        <div><h2 class="" style="color: #65FFDD;">@team.Name</h2></div>                       
+                    </li>
+
+                    <li class="d-flex no-block card-body">
+                        <details class="w-100">
+                            <summary>
+                                <i class="fas fa-tasks mr-2 opacityTextParagraph"></i>
+                                <span class="opacityTextParagraph">Press the icon for details</span>
+                                @{ 
+                                    int unfinishedCount = team.Tasks.Where(x => x.finished.Equals(false)).Count();
+                                }
+
+                                <span class="float-right mr-5 opacityTextParagraph">Unfinished tasks: @unfinishedCount</span>
+
+
+
+                            </summary>
+                            <ul>
+                                @foreach (var task in team.Tasks)
+                                {
+                                    if(task.finished == false)
+                                    {
+                                        <li class="opacityTextParagraph">@task.Name</li>
+                                    }
+                                
+                                }
+                                
+                            </ul>
+                        </details>
+                    </li>
+                    <hr class="w-100" />
+                }
+                }
+                </ul>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+    
+}
+
+
+

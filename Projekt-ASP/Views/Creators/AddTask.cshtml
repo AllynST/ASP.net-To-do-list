@@ -1,0 +1,26 @@
+﻿@model Projekt_ASP.Models.Task
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "SingleInputPageLayout";
+}
+
+
+
+
+<div id="SingleInputcontainer">
+    <form asp-action="AddTask" asp-controller="Creators" method="post">
+
+
+        <div class="webflow-style-input">
+            <input type="text" hidden asp-for="Task_ID" />
+            <input type="text" placeholder="Enter task name" asp-for="Name" />
+            <input type="checkbox" hidden asp-for="finished" value="false" />
+            <button type="submit"><i class="fas fa-users"></i></button>
+        </div>
+
+
+    </form>
+</div>
+

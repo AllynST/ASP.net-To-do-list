@@ -1,0 +1,62 @@
+﻿@model Projekt_ASP.Models.RegisterModel
+@{
+    Layout = "LoginLayout";
+}
+
+<div class="container-fluid align-self-center h-100">
+    <div class="d-flex justify-content-center h-100">
+        <div class="card">
+            <div class="card-header">
+                <h3>Sign In</h3>
+            </div>
+            <div class="card-body">
+                <div class="text-danger" asp-validation-summary="All"></div>
+                <form asp-action="Register" asp-controller="Account" method="post">
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="far fa-user-circle"></i></span>
+                        </div>
+                        <input asp-for="UserName" class="form-control" placeholder="User name" />
+
+                    </div>
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                        </div>
+                        <input asp-for="Name" class="form-control" placeholder="Name"/>
+                    </div>
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                        </div>
+                        <input asp-for="Surname" class="form-control" placeholder="Surname" />
+                    </div>
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="far fa-envelope"></i></span>
+                        </div>
+                        <input asp-for="Email" class="form-control" placeholder="Email adress" />
+                    </div>
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-key"></i></span>
+                        </div>
+                        <input asp-for="Password" class="form-control" placeholder="Password" />
+                    </div>
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-key"></i></span>
+                        </div>
+                        <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm Password" />
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="submit" value="Register" class="btn float-right login_btn">
+
+                    </div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</div>

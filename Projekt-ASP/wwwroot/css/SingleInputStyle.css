@@ -1,0 +1,135 @@
+﻿
+input {
+    border-style: none;
+    background: transparent;
+    outline: none;
+}
+button {
+    padding: 0;
+    background: none;
+    border: none;
+    outline: none;
+
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #0A192F;
+}
+
+#SingleInputcontainer {   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+    height: auto;
+    padding: 0;
+    margin: 0;
+    margin-top:400px;
+    flex-wrap:wrap;
+
+    
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0 0
+    }
+
+    100% {
+        background-position: 100% 0
+    }
+}
+
+#SingleInputcontainer .webflow-style-input {
+    position: relative;
+    background-color: #343a4e;
+    display: flex;
+    flex-direction: row;
+    width: 100%;    
+    margin: 0 auto;
+    border-radius: 2px;
+    padding: 1.4rem 2rem 1.6rem;
+}
+
+    #SingleInputcontainer .webflow-style-input::after {
+        content: "";
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        bottom: 0px;
+        z-index: 999;
+        height: 2px;
+        border-bottom-left-radius: 2px;
+        border-bottom-right-radius: 2px;
+        background-position: 0% 0%;
+        background: linear-gradient(to right, #B294FF, #57E6E6, #FEFFB8, #57E6E6, #B294FF, #57E6E6);
+        background-size: 500% auto;
+        animation: gradient 3s linear infinite;
+    }
+
+
+    #SingleInputcontainer .webflow-style-input input {
+        flex-grow: 1;
+        color: #7881a1;
+        font-size: 1.8rem;
+        line-height: 2.4rem;
+        vertical-align: middle;
+    }
+
+    #SingleInputcontainer .webflow-style-input::-webkit-input-placeholder {
+        color: blue;
+    }
+
+    #SingleInputcontainer .webflow-style-input button {
+        color: #7881a1;
+        font-size: 2.4rem;
+        line-height: 2.4rem;
+        vertical-align: middle;
+        transition: color .25s;
+    }
+
+    #SingleInputcontainer .webflow-style-input.hover {
+        color: cyan;
+    }
+header {
+    background-color: #09192f;
+    box-shadow: 0px 0px 50px 0px #020A16;
+    color:white;
+    margin-bottom: 30px;
+}
+header a{
+    transition:all 0.3s;
+    color:white;
+    
+}
+.neonGreen {
+    color: #65FFDD;
+}
+header a:hover {
+     color: #65FFDD;
+     transform: scale(1.1);
+}
+.customTeamCard {
+    background-color: #172a46;
+}
+.opacityTextHeader{
+    color:white;
+    opacity:0.7;
+}
+.opacityTextParagraph {
+    color: white;
+    opacity: 0.5;
+}
+.customTeamButton {
+    background-color: #068d9d;
+    color:black;
+    transition:all 0.2s;
+}
+.customTeamButton:hover {
+    background:transparent;
+    border: solid 1px #068d9d;
+    color:white;
+}

@@ -1,0 +1,21 @@
+﻿@model Projekt_ASP.Models.Team
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "SingleInputPageLayout";
+}
+
+
+<div id="SingleInputcontainer">
+    <form asp-controller="Creators" asp-action="CreateTeam" method="post">
+
+
+        <div class="webflow-style-input">
+            <input placeholder="Enter team name" asp-for="Name" />
+            <button type="submit"><i class="fas fa-users"></i></button>
+        </div>
+
+
+    </form>
+</div>

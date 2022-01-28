@@ -1,0 +1,21 @@
+﻿@model Projekt_ASP.Models.Team
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+    
+*@
+@{
+    Layout = "SingleInputPageLayout";
+}
+
+<div id="SingleInputcontainer">
+
+    <form asp-controller="App" asp-action="AddMember" method="post">
+        <div class="webflow-style-input">
+
+            <input hidden value="@Model.Team_ID" asp-for="Team_ID">
+            <input class="" type="text" value="" asp-for="Name" placeholder="Member Username" />
+            <button type="submit"><i class="fas fa-user-plus"></i></button>
+        </div>
+    </form>
+    <div style="text-align: center; font-size: 1.5em; line-height: 50px;" class="w-100 text-light">@ViewBag.Errors</div>
+</div>    
