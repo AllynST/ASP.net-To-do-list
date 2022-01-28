@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Allyn\\source\\repos\\Projekt-ASP\\Projekt ASP.csproj": {}
+    "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt-ASP\\Projekt ASP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Allyn\\source\\repos\\Projekt-ASP\\Projekt ASP.csproj": {
+    "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt-ASP\\Projekt ASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Allyn\\source\\repos\\Projekt-ASP\\Projekt ASP.csproj",
+        "projectUniqueName": "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt-ASP\\Projekt ASP.csproj",
         "projectName": "Projekt ASP",
-        "projectPath": "C:\\Users\\Allyn\\source\\repos\\Projekt-ASP\\Projekt ASP.csproj",
+        "projectPath": "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt-ASP\\Projekt ASP.csproj",
         "packagesPath": "C:\\Users\\Allyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Allyn\\source\\repos\\Projekt-ASP\\obj\\",
+        "outputPath": "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt-ASP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Allyn\\AppData\\Roaming\\NuGet\\NuGet.Config",

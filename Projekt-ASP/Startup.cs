@@ -58,8 +58,9 @@ namespace Projekt_ASP
 
                 // User settings.
                 options.User.AllowedUserNameCharacters =
-                "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
-                options.User.RequireUniqueEmail = true;
+                "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._!@+";
+                
+                options.User.RequireUniqueEmail = false;
                 
             });
             services.AddDistributedMemoryCache();

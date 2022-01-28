@@ -1,57 +1,58 @@
 ﻿
 
 @model Projekt_ASP.Models.User
-@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
 @{
     Layout = "_Layout";
 }
 
-    <div class="container" style="margin-top:50px;">
-        <div class="row">
-            <div class="col-lg-4">
-                <img src="~/Image/User_icon_2.png" class="img-fluid">
-            </div>
-            <div class="col-lg-8 pt-4 pt-lg-0 content">
-                <h3 class="opacityTextHeader">User data</h3>
-                <div class="row">
-                    
-                    <div class="col-lg-6">
-                        <table class="table">
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
 
-
-                            <tr>
-                                <td><strong class="opacityTextHeader">User name:</strong></td>
-                                <td><span class="opacityTextParagraph">@Model.UserName</span></td>
-
-                            </tr>
-                            <tr>
-                                <td><strong class="opacityTextHeader">First name:</strong></td>
-                                <td><span class="opacityTextParagraph">@Model.Name</span></td>
-
-                            </tr>
-                            <tr>
-                                <td><strong class="opacityTextHeader">Surname:</strong></td>
-                                <td><span class="opacityTextParagraph">@Model.Surname</span></td>
-                            </tr>
-                            <tr>
-                                <td><strong class="opacityTextHeader">Email adress:</strong></td>
-                                <td><span class="opacityTextParagraph">@Model.Email</span></td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <a class="btn btn-primary" asp-controller="Account" asp-action="EditCredentials" asp-route-id="@Model.User_ID">Edit</a>
-                                    <a class="btn btn-danger" asp-controller="Account" asp-action="DeleteUserAccount" asp-route-id="@Model.User_ID">Delete</a>
-                                </td>
-                            </tr>
-
-                        </table>
-                    </div>
-                </div>
-
-            </div>
+<div class="container" style="margin-top:50px;">
+    <div class="row">
+        <div class="col-lg-4">
+            <img src="~/Image/User_icon_2.png" class="img-fluid">
         </div>
+        <div class="col-lg-8 pt-4 pt-lg-0 content">
+            <h3 class="opacityTextHeader">User data</h3>
+            <div class="row">
 
+                <div class="col-lg-6">
+                    <table class="table">
+
+
+                        <tr>
+                            <td><strong class="opacityTextHeader">User name:</strong></td>
+                            <td><span class="opacityTextParagraph">@Model.UserName</span></td>
+
+                        </tr>
+                        <tr>
+                            <td><strong class="opacityTextHeader">First name:</strong></td>
+                            <td><span class="opacityTextParagraph">@Model.Name</span></td>
+
+                        </tr>
+                        <tr>
+                            <td><strong class="opacityTextHeader">Surname:</strong></td>
+                            <td><span class="opacityTextParagraph">@Model.Surname</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong class="opacityTextHeader">Email adress:</strong></td>
+                            <td><span class="opacityTextParagraph">@Model.Email</span></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <a class="btn btn-primary" asp-controller="Account" asp-action="EditCredentials" asp-route-id="@Model.User_ID">Edit</a>
+                                <a class="btn btn-danger" asp-controller="Account" asp-action="DeleteUserAccount" asp-route-id="@Model.User_ID">Delete</a>
+                            </td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+
+        </div>
     </div>
+
+</div>
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RgcD+X6g3bGo49Sxp2RU3EVMTJk78IfZtZO5J3mg/+ZQqPWFwbzT0H6xUmDWG8SqCP5bJBLSx9gdU+N52mMHmA==",
+  "dgSpecHash": "DPGfYUzFaRozXQSiAEa4r+N6DToYuCq+KoIZ3Opt74T6kLFOebQKgpgJUlHIgaw/aKTp6tl96niaY48EgKMbXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Allyn\\source\\repos\\Projekt ASP Tests\\Projekt ASP Tests.csproj",
+  "projectFilePath": "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt ASP Tests\\Projekt ASP Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Allyn\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Allyn\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.12\\microsoft.aspnetcore.cryptography.internal.5.0.12.nupkg.sha512",

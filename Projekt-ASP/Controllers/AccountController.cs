@@ -151,14 +151,14 @@ namespace Projekt_ASP.Controllers
         {
             if (ModelState.IsValid)
             {
-                repository.AddUser(model);
+                repository.AddUser(model);               
                 
                 
-                return View("../App/Index", Trepository.UserTeams(repository.FindUserByName(User.Identity.Name)));
+                return View("../Account/Login");
             }
             else
             {
-                return View("../ App/Register",model);
+                return View("../Account/Register",model);
             }
             
 

@@ -15,7 +15,7 @@ using Task = Projekt_ASP.Models.Task;
 
 namespace projekt_asp.Controllers
 {
-    [Route("api/task")]
+    [Route("api/users")]
     [ApiController]
     [AllowAnonymous]
     public class RestUser_Controller : ControllerBase

@@ -66,13 +66,11 @@ namespace Projekt_ASP.Services
                 
                 .ToList();
         }
-        public async System.Threading.Tasks.Task AddUser(RegisterModel model)
+        public void AddUser(RegisterModel model)
         {
             IdentityUser Identityuser = new IdentityUser { UserName = model.UserName, Email = model.Email };
-            var result =  await _userManager.CreateAsync(Identityuser, model.Password);
+            var result =   _userManager.CreateAsync(Identityuser, model.Password);
 
-            if (result.Succeeded)
-            {
                 User user = new User
                 {
                     User_ID = Identityuser.Id,
@@ -85,11 +83,7 @@ namespace Projekt_ASP.Services
                 _context.Users.Add(user);
                 _context.SaveChanges();
                
-            }
-            else
-            {
-                throw new Exception("Register failed");
-            }            
+                     
         }
         public List<Team> UserTeams(User user)
         {

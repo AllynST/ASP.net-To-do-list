@@ -10290,11 +10290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Allyn\\source\\repos\\Projekt ASP Tests\\Projekt ASP Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt ASP Tests\\Projekt ASP Tests.csproj",
       "projectName": "Projekt ASP Tests",
-      "projectPath": "C:\\Users\\Allyn\\source\\repos\\Projekt ASP Tests\\Projekt ASP Tests.csproj",
+      "projectPath": "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt ASP Tests\\Projekt ASP Tests.csproj",
       "packagesPath": "C:\\Users\\Allyn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Allyn\\source\\repos\\Projekt ASP Tests\\obj\\",
+      "outputPath": "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt ASP Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Allyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10311,8 +10311,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Allyn\\source\\repos\\Projekt-ASP\\Projekt ASP.csproj": {
-              "projectPath": "C:\\Users\\Allyn\\source\\repos\\Projekt-ASP\\Projekt ASP.csproj"
+            "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt-ASP\\Projekt ASP.csproj": {
+              "projectPath": "C:\\Users\\Allyn\\Desktop\\ASP.net To do list\\Projekt-ASP\\Projekt ASP.csproj"
             }
           }
         }

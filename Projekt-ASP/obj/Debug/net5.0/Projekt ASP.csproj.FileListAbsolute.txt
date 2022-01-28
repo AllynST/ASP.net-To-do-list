@@ -101,3 +101,106 @@ C:\Users\Allyn\source\repos\Projekt-ASP\bin\Debug\net5.0\xunit.assert.dll
 C:\Users\Allyn\source\repos\Projekt-ASP\bin\Debug\net5.0\xunit.core.dll
 C:\Users\Allyn\source\repos\Projekt-ASP\bin\Debug\net5.0\xunit.execution.dotnet.dll
 C:\Users\Allyn\source\repos\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Shared\SingleInputPageLayout.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\appsettings.json
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Projekt ASP.exe
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Projekt ASP.deps.json
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Projekt ASP.runtimeconfig.json
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Projekt ASP.runtimeconfig.dev.json
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Projekt ASP.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\ref\Projekt ASP.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Projekt ASP.pdb
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Projekt ASP.Views.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Projekt ASP.Views.pdb
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\ServiceStack.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\ServiceStack.Client.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\ServiceStack.Common.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\ServiceStack.Interfaces.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\ServiceStack.Text.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\System.Private.ServiceModel.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\System.ServiceModel.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\xunit.core.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.csproj.AssemblyReference.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.AssemblyInfoInputs.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.AssemblyInfo.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.csproj.CoreCompileInputs.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.RazorAssemblyInfo.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.RazorAssemblyInfo.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\staticwebassets\Projekt ASP.StaticWebAssets.Manifest.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\staticwebassets\Projekt ASP.StaticWebAssets.xml
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\scopedcss\bundle\Projekt ASP.styles.css
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.TagHelpers.input.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.TagHelpers.output.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.RazorCoreGenerate.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Account\EditCredentials.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Account\YourAccount.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\App\AddTeamMemberPage.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\App\Index.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\App\TeamPage.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\App\YourTeams.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Creators\AddTask.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Creators\CreateTeamPage.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Shared\LoginLayout.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Shared\SingleInputPageLayout.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.RazorTargetAssemblyInfo.cache
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.RazorTargetAssemblyInfo.cs
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.Views.pdb
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.csproj.CopyComplete
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\ref\Projekt ASP.dll
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.pdb
+C:\Users\Allyn\Desktop\ASP.net To do list\Projekt-ASP\obj\Debug\net5.0\Projekt ASP.genruntimeconfig.cache

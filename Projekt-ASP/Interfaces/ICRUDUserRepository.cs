@@ -10,7 +10,7 @@ namespace Projekt_ASP.Models
     {
         IList<User> GetUser();
 
-        System.Threading.Tasks.Task AddUser(RegisterModel model);
+        void AddUser(RegisterModel model);
         List<Team> UserTeams(User user);
         void DeleteUser(string id);
         User FindUserByID(string id);
